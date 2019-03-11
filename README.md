@@ -26,4 +26,4 @@ There is also a third file, bike_rental_test, where the tests are written using 
 I used pycodestyle to check against PEP8 style conventions
 
 # How to run the tests:
-Write on the command line, while on the path on the proyect ../intivefdv $ python3 bike_rental_test.py
+Write on the command line, while on the path of the proyect ../intivefdv $ python3 bike_rental_test.py
